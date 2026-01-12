@@ -1,0 +1,14 @@
+@language = Langue
+@EN = Anglais
+@FR = Français
+@DE = Allemand
+@ES = Espagnol
+@PT = Portugais
+@IT = Italien
+@JA = Japonais
+@ZH = Chinois simplifié
+@KO = Coréen
+@TR = Turc
+@AR = Arabe
+@RU = Russe
+@PL = Polonais

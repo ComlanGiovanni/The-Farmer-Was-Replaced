@@ -3,7 +3,6 @@ from farming import *
 from callback import *
 from multidrone import *
 from advanced import *
-from achivement import *
 
 while True:
 	clear_map_with_drones()

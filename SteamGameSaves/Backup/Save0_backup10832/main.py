@@ -6,6 +6,9 @@ from advanced import *
 from achivement import *
 
 while True:
+	recycling_achievement_safe()
+
+while True:
 	clear_map_with_drones()
 
 	till_entire_map_with_drones()

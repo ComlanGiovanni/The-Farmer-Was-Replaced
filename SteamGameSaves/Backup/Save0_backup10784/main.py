@@ -6,6 +6,7 @@ from advanced import *
 from achivement import *
 
 while True:
+	fashion_show_achievement()
 	clear_map_with_drones()
 
 	till_entire_map_with_drones()
