@@ -38,4 +38,4 @@ UI volume = 1
 vfx limit = 200
 viewport sliding = disabled
 volume = 1
-activeSave = 100%
+activeSave = New Run
